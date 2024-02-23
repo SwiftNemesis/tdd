@@ -5,3 +5,6 @@ pinocchio
 coverage
 pylint
 flake8
+mypy
+bandit
+pytest
